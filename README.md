@@ -5,4 +5,4 @@
 本文档的内容来自 https://github.com/facebook/react/tree/master/docs/docs，尽可能在其更新之后，此处同步更新，如果没有，欢迎您提出 [Issue](https://github.com/helinjiang/react-docs/issues)，一起维护。
 
 ## 更新历史
-- 2016-8-23 初始化
+- 2016-8-23 首次同步
