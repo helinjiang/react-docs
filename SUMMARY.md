@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * QUICK START
-   * [Getting Started](docs/getting_started.md)
+   * [Getting Started](docs/getting-started.md)
 
